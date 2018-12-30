@@ -32,5 +32,5 @@ python compute_mAP.py
 python server.py
 ```
 
-## Demo
+## Demo (Please wait serval seconds for downloading)
 ![image](https://github.com/ruizewang/CBIR-CNN/blob/master/demo.gif )   
